@@ -7,8 +7,6 @@ public class Cuadrado {
         this.lado = 0.0;
     }
 
-    public Cuadrado(double lado) {;
-    }
     public double getLado() {
         return lado;
     }
